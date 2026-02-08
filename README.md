@@ -1,2 +1,2 @@
 # Class-Assignment
-frist test
+first test
